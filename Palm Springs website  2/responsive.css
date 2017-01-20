@@ -1,0 +1,37 @@
+@media screen and (min-width: 480pc;) {
+
+	/*TWO COLUMN LAYOUT*/
+
+
+	#primary {
+		width: 50%;
+		float: left;
+
+	}
+	#secondary {
+		width: 40%;
+		float: right;
+	}
+
+}
+
+/*ABOUT PAGE*/
+
+.profile-photo {
+	float: left;
+	margin: 0 5% 80px 0;
+}
+
+@media screen and (min-width: 660px;) {
+/*HEADER*/
+
+	nav {
+		background: none;
+		float: right;
+		font-size: 1.125em;
+		margin-right: 5%;
+		text-align: right;
+		width: 45%;
+	}
+
+}
